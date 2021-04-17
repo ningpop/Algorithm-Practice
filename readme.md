@@ -30,6 +30,7 @@
 - [K번째수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/K번째수.py)
 - [가운데 글자 가져오기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/가운데%20글자가져오기.cpp)
 - [두 정수 사이의 합](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/두%20정수%20사이의%20합.cpp)
+- [모의고사](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/모의고사.py)
 - [문자열 내 p와 y의 개수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/문자열%20내%20p와%20y의%20개수.cpp)
 - [서울에서 김서방 찾기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/서울에서%20김서방%20찾기.py)
 - [소수 찾기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/소수%20찾기.cpp)
