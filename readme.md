@@ -28,7 +28,7 @@
 
 - [2016년](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/2016년.cpp)
 - [가운데 글자 가져오기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/가운데_글자가져오기.cpp)
-- [같은 숫자는 싫어](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/같은_숫자는_싫어.cpp)
+- [같은 숫자는 싫어](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/같은_숫자는_싫어.py)
 - [두 정수 사이의 합](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/두_정수_사이의_합.cpp)
 - [모의고사](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/모의고사.py)
 - [문자열 내 p와 y의 개수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/문자열_내_p와_y의_개수.cpp)
