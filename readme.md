@@ -9,9 +9,13 @@
 ### 주요 알고리즘 이론과 실전 문제
 
 - 그리디
-    - [예제 3-1. 거스름돈](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/예제3-1.거스름돈.py)
-    - [실전 3-2. 큰 수의 법칙-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/실전3-2.큰_수의_법칙-1.py)
-    - [실전 3-2. 큰 수의 법칙-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/실전3-2.큰_수의_법칙-2.py)
+    - [예제 3-1. 거스름돈](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-1.(예제)거스름돈.py)
+    - [실전 3-2. 큰 수의 법칙-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-2.(실전)큰_수의_법칙-1.py)
+    - [실전 3-2. 큰 수의 법칙-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-2.(실전)큰_수의_법칙-2.py)
+    - [실전 3-3. 숫자 카드 게임-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-3.(실전)숫자_카드_게임-1.py)
+    - [실전 3-3. 숫자 카드 게임-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-3.(실전)숫자_카드_게임-2.py)
+    - [실전 3-4. 1이 될 때까지-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-4.(실전)1이_될_때까지-1.py)
+    - [실전 3-4. 1이 될 때까지-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-4.(실전)1이_될_때까지-2.py)
 </details>
 
 <details>
