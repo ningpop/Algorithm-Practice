@@ -18,6 +18,7 @@
     - [실전 3-4. 1이 될 때까지-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-4.실전_1이_될_때까지-2.py)
 - 구현
     - [예제 4-1. 상하좌우](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-1.예제_상하좌우.py)
+    - [예제 4-2. 시각](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-2.예제_시각.py)
 </details>
 
 <details>
