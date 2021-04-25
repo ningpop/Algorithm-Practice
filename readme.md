@@ -19,6 +19,8 @@
 - 구현
     - [예제 4-1. 상하좌우](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-1.예제_상하좌우.py)
     - [예제 4-2. 시각](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-2.예제_시각.py)
+    - [실전 4-3. 왕실의 나이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-3.실전_왕실의_나이트.py)
+    - [실전 4-4. 게임 개발](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-4.실전_게임_개발.py)
 </details>
 
 <details>
