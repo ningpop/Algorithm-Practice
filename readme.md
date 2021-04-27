@@ -4,6 +4,43 @@
 
 <br>
 <details>
+<summary>CodeUp</summary>
+
+### Python 기초 100제
+
+- [6001 - [기초-출력] 출력하기01(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6001.py)
+- [6002 - [기초-출력] 출력하기02(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6002.py)
+- [6003 - [기초-출력] 출력하기03(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6003.py)
+- [6004 - [기초-출력] 출력하기04(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6004.py)
+- [6005 - [기초-출력] 출력하기05(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6005.py)
+- [6006 - [기초-출력] 출력하기06(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6006.py)
+- [6007 - [기초-출력] 출력하기07(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6007.py)
+- [6008 - [기초-출력] 출력하기08(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6008.py)
+- [6009 - [기초-입출력] 문자 1개 입력받아 그대로 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6009.py)
+- [6010 - [기초-입출력] 정수 1개 입력받아 int로 변환하여 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6010.py)
+- [6011 - [기초-입출력] 실수 1개 입력받아 변환하여 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6011.py)
+- [6012 - [기초-입출력] 정수 2개 입력받아 그대로 출력하기1(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6012.py)
+- [6013 - [기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기1(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6013.py)
+- [6014 - [기초-입출력] 실수 1개 입력받아 3번 출력하기(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6014.py)
+- [6015 - [기초-입출력] 정수 2개 입력받아 그대로 출력하기2(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6015.py)
+- [6016 - [기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기2(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6016.py)
+- [6017 - [기초-입출력] 문장 1개 입력받아 3번 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6017.py)
+- [6018 - [기초-입출력] 시간 입력받아 그대로 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6018.py)
+- [6019 - [기초-입출력] 연월일 입력받아 순서 바꿔 출력하기(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6019.py)
+- [6020 - [기초-입출력] 주민번호 입력받아 형태 바꿔 출력하기(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6020.py)
+- [6021 - [기초-입출력] 단어 1개 입력받아 나누어 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6021.py)
+- [6022 - [기초-입출력] 연월일 입력받아 나누어 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6022.py)
+- [6023 - [기초-입출력] 시분초 입력받아 분만 출력하기(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6023.py)
+- [6024 - [기초-입출력] 단어 2개 입력받아 이어 붙이기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6024.py)
+- [6025 - [기초-값변환] 정수 2개 입력받아 합 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6025.py)
+- [6026 - [기초-값변환] 실수 2개 입력받아 합 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6026.py)
+- [6027 - [기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6027.py)
+- [6028 - [기초-출력변환] 10진 정수 입력받아 16진수로 출력하기2(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6028.py)
+- [6029 - [기초-값변환] 16진 정수 입력받아 8진수로 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6029.py)
+- [6030 - [기초-값변환] 영문자 1개 입력받아 10진수로 변환하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6030.py)
+</details>
+
+<details>
 <summary>이것이 취업을 위한 코딩테스트다 with 파이썬 - 나동빈 저</summary>
 
 ### 주요 알고리즘 이론과 실전 문제
