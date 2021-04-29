@@ -38,6 +38,16 @@
 - [6028 - [기초-출력변환] 10진 정수 입력받아 16진수로 출력하기2(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6028.py)
 - [6029 - [기초-값변환] 16진 정수 입력받아 8진수로 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6029.py)
 - [6030 - [기초-값변환] 영문자 1개 입력받아 10진수로 변환하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6030.py)
+- [6031 - [기초-값변환] 정수 입력받아 유니코드 문자로 변환하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6031.py)
+- [6032 - [기초-산술연산] 정수 1개 입력받아 부호 바꾸기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6032.py)
+- [6033 - [기초-산술연산] 문자 1개 입력받아 다음 문자 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6033.py)
+- [6034 - [기초-산술연산] 정수 2개 입력받아 차 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6034.py)
+- [6035 - [기초-산술연산] 실수 2개 입력받아 곱 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6035.py)
+- [6036 - [기초-산술연산] 단어 여러 번 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6036.py)
+- [6037 - [기초-산술연산] 문장 여러 번 출력하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6037.py)
+- [6038 - [기초-산술연산] 정수 2개 입력받아 거듭제곱 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6038.py)
+- [6039 - [기초-산술연산] 실수 2개 입력받아 거듭제곱 계산하기(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6039.py)
+- [6040 - [기초-산술연산] 정수 2개 입력받아 나눈 몫 계산하기(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6040.py)
 </details>
 
 <details>
