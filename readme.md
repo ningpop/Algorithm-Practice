@@ -74,6 +74,12 @@
     - [예제 5-1-3. 재귀 함수](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-3.예제_재귀_함수.py)
     - [예제 5-1-4. 재귀 함수 종료](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-4.예제_재귀_함수_종료.py)
     - [예제 5-1-5. 2가지 방식으로 구현한 팩토리얼](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-5.예제_2가지_방식으로_구현한_팩토리얼.py)
+    - [예제 5-2-1. 인접 행렬 방식](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-1.예제_인접_행렬_방식.py)
+    - [예제 5-2-2. 인접 리스트 방식](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-2.예제_인접_리스트_방식.py)
+    - [예제 5-2-3. DFS](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-3.예제_DFS.py)
+    - [예제 5-2-4. BFS](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-4.예제_BFS.py)
+    - [실전 5-3. 음료수 얼려 먹기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-3.실전_음료수_얼려_먹기.py)
+    - [실전 5-4. 미로 탈출](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-4.실전_미로_탈출.py)
 
 </details>
 
