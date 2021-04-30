@@ -85,6 +85,8 @@
 - Chapter 12. 구현 문제
     - [Q 07. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q07_럭키_스트레이트.py)
     - [Q 08. 문자열 재정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q08_문자열_재정렬.py)
+    - [Q 09. 문자열 압축](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q09_문자열_압축.py)
+    - [Q 10. 자물쇠와 열쇠](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q10_자물쇠와_열쇠.py)
 
 </details>
 
