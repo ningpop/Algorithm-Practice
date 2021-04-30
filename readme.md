@@ -53,9 +53,9 @@
 <details>
 <summary>이것이 취업을 위한 코딩테스트다 with 파이썬 - 나동빈 저</summary>
 
-### 주요 알고리즘 이론과 실전 문제
+### Part 02. 주요 알고리즘 이론과 실전 문제
 
-- 그리디
+- Chapter 03. 그리디
     - [예제 3-1. 거스름돈](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-1.예제_거스름돈.py)
     - [실전 3-2. 큰 수의 법칙-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-2.실전_큰_수의_법칙-1.py)
     - [실전 3-2. 큰 수의 법칙-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-2.실전_큰_수의_법칙-2.py)
@@ -63,12 +63,12 @@
     - [실전 3-3. 숫자 카드 게임-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-3.실전_숫자_카드_게임-2.py)
     - [실전 3-4. 1이 될 때까지-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-4.실전_1이_될_때까지-1.py)
     - [실전 3-4. 1이 될 때까지-2](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-4.실전_1이_될_때까지-2.py)
-- 구현
+- Chapter 04. 구현
     - [예제 4-1. 상하좌우](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-1.예제_상하좌우.py)
     - [예제 4-2. 시각](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-2.예제_시각.py)
     - [실전 4-3. 왕실의 나이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-3.실전_왕실의_나이트.py)
     - [실전 4-4. 게임 개발](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap04.구현/4-4.실전_게임_개발.py)
-- DFS/BFS
+- Chapter 05. DFS/BFS
     - [예제 5-1-1. 스택](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-1.예제_스택.py)
     - [예제 5-1-2. 큐](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-2.예제_큐.py)
     - [예제 5-1-3. 재귀 함수](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-1-3.예제_재귀_함수.py)
@@ -80,6 +80,11 @@
     - [예제 5-2-4. BFS](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-4.예제_BFS.py)
     - [실전 5-3. 음료수 얼려 먹기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-3.실전_음료수_얼려_먹기.py)
     - [실전 5-4. 미로 탈출](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-4.실전_미로_탈출.py)
+
+### Part 03. 알고리즘 유형별 기출문제
+- Chapter 12. 구현 문제
+    - [Q 07. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q07_럭키_스트레이트.py)
+    - [Q 08. 문자열 재정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q08_문자열_재정렬.py)
 
 </details>
 
@@ -99,6 +104,7 @@
 - [9012. 괄호 (Stack)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/9000~9099/9012.cpp)
 - [10799. 쇠막대기 (stack)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/10700~10799/10799.cpp)
 - [10992. 별 찍기 - 17 (반복문)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/10900~10999/10992.cpp)
+- [18406. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/18400~18499/18406.py)
 </details>
 
 <details>
