@@ -109,18 +109,18 @@
 
 ### 기초1. 출력문
 
-- [1001 - [기초-출력] 출력하기01(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1001.cpp.py)
-- [1002 - [기초-출력] 출력하기02(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1002.cpp.py)
-- [1003 - [기초-출력] 출력하기03(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1003.cpp.py)
-- [1004 - [기초-출력] 출력하기04(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1004.cpp.py)
-- [1005 - [기초-출력] 출력하기05(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1005.cpp.py)
-- [1006 - [기초-출력] 출력하기06(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1006.cpp.py)
-- [1007 - [기초-출력] 출력하기07(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1007.cpp.py)
-- [1008 - [기초-출력] 출력하기08(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1008.cpp.py)
-- [1101 - Hello, World!](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1101.cpp.py)
-- [1102 - Hello, World! (줄 바꿈 버전)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1102.cpp.py)
-- [1103 - 폴더명 출력](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1103.cpp.py)
-- [1106 - int의 범위](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1106.cpp.py)
+- [1001 - [기초-출력] 출력하기01(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1001.cpp)
+- [1002 - [기초-출력] 출력하기02(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1002.cpp)
+- [1003 - [기초-출력] 출력하기03(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1003.cpp)
+- [1004 - [기초-출력] 출력하기04(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1004.cpp)
+- [1005 - [기초-출력] 출력하기05(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1005.cpp)
+- [1006 - [기초-출력] 출력하기06(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1006.cpp)
+- [1007 - [기초-출력] 출력하기07(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1007.cpp)
+- [1008 - [기초-출력] 출력하기08(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1008.cpp)
+- [1101 - Hello, World!](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1101.py)
+- [1102 - Hello, World! (줄 바꿈 버전)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1102.py)
+- [1103 - 폴더명 출력](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1103.py)
+- [1106 - int의 범위](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1106.py)
 </details>
 
 <details>
