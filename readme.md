@@ -7,7 +7,6 @@
 <summary>CodeUp</summary>
 
 ### Python 기초 100제
-
 - [6001 - [기초-출력] 출력하기01(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6001.py)
 - [6002 - [기초-출력] 출력하기02(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6002.py)
 - [6003 - [기초-출력] 출력하기03(설명)(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6003.py)
@@ -108,7 +107,6 @@
 - [6098 - [기초-리스트] 성실한 개미(py)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Python_Basic_100/6098.py)
 
 ### 기초1. 출력문
-
 - [1001 - [기초-출력] 출력하기01(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1001.cpp)
 - [1002 - [기초-출력] 출력하기02(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1002.cpp)
 - [1003 - [기초-출력] 출력하기03(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1003.cpp)
@@ -123,7 +121,6 @@
 - [1106 - int의 범위](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic1/1106.py)
 
 ### 기초2. 입출력문 및 연산자
-
 - [1010 - [기초-입출력] 정수 1개 입력받아 그대로 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1010.cpp)
 - [1011 - [기초-입출력] 문자 1개 입력받아 그대로 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1011.cpp)
 - [1012 - [기초-입출력] 실수 1개 입력받아 그대로 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1012.cpp)
@@ -210,6 +207,58 @@
 - [1148 - 비트 연산자(>>)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1148.py)
 - [1149 - 두 수 중 큰 수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1149.py)
 - [1150 - 세 수 중 가장 작은 수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic2/1150.py)
+
+### 기초3. if ~ else
+- [1065 - [기초-조건/선택실행구조] 정수 3개 입력받아 짝수만 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1065.cpp)
+- [1066 - [기초-조건/선택실행구조] 정수 3개 입력받아 짝/홀 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1066.cpp)
+- [1067 - [기초-조건/선택실행구조] 정수 1개 입력받아 분석하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1067.cpp)
+- [1068 - [기초-조건/선택실행구조] 정수 1개 입력받아 평가 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1068.cpp)
+- [1069 - [기초-조건/선택실행구조] 평가 입력받아 다르게 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1069.cpp)
+- [1070 - [기초-조건/선택실행구조] 월 입력받아 계절 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1070.cpp)
+- [1151 - 10보다 작은 수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1151.py)
+- [1152 - 10보다 작은 수 (else 버전)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1152.py)
+- [1153 - 두 수의 대소 비교](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1153.py)
+- [1154 - 큰수 - 작은수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1154.py)
+- [1155 - 7의 배수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1155.py)
+- [1156 - 홀수 짝수 구별](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1156.py)
+- [1157 - 특별한 공 던지기 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1157.py)
+- [1158 - 특별한 공 던지기 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1158.py)
+- [1159 - 특별한 공 던지기 3](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1159.py)
+- [1160 - 아르바이트 가는 날](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1160.py)
+- [1161 - 홀수와 짝수 그리고 더하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1161.py)
+- [1162 - 당신의 사주를 봐 드립니다 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1162.py)
+- [1163 - 당신의 사주를 봐 드립니다 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1163.py)
+- [1164 - 터널 통과하기 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1164.py)
+- [1165 - 축구의 신 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1165.py)
+- [1166 - 윤년 판별](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1166.py)
+- [1167 - 두 번째로 작은 수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1167.py)
+- [1168 - 나이 계산 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1168.py)
+- [1169 - 나이 계산 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1169.py)
+- [1170 - 당신의 학번은? 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1170.py)
+- [1170 - 당신의 학번은? 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1170.py)
+- [1170 - 세 수 정렬하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1170.py)
+- [1170 - 30분전](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1170.py)
+- [1180 - 만능 휴지통](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1180.py)
+- [1201 - 정수 판별](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1201.py)
+- [1202 - 등급 판정](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1202.py)
+- [1203 - 비만도 측정 0](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1203.py)
+- [1204 - 영어 서수로 표현하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1204.py)
+- [1205 - 최댓값](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1205.py)
+- [1206 - 배수](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1206.py)
+- [1207 - 윷놀이](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1207.py)
+- [1210 - 칼로리 계산하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1210.py)
+- [1212 - 삼각형의 성립 조건](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1212.py)
+- [1214 - 이 달은 며칠까지 있을까?](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1214.py)
+- [1216 - 컨설팅 회사](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1216.py)
+- [1218 - 삼각형 판단하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1218.py)
+- [1222 - 축구의 신 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1222.py)
+- [1224 - 분수 크기 비교](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1224.py)
+- [1226 - 이번 주 로또](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1226.py)
+- [1228 - 비만도 측정 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1228.py)
+- [1229 - 비만도 측정 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1229.py)
+- [1230 - 터널 통과하기 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1230.py)
+- [1231 - 계산기 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1231.py)
+
 </details>
 
 <details>
