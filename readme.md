@@ -276,7 +276,6 @@
 <summary>이것이 취업을 위한 코딩테스트다 with 파이썬 - 나동빈 저</summary>
 
 ### Part 02. 주요 알고리즘 이론과 실전 문제
-
 - Chapter 03. 그리디
     - [예제 3-1. 거스름돈](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-1.예제_거스름돈.py)
     - [실전 3-2. 큰 수의 법칙-1](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap03.그리디/3-2.실전_큰_수의_법칙-1.py)
@@ -304,6 +303,8 @@
     - [실전 5-4. 미로 탈출](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-4.실전_미로_탈출.py)
 
 ### Part 03. 알고리즘 유형별 기출문제
+- Chapter 11. 그리디 문제
+    - [Q 01. 모험가 길드](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap11.그리디_문제/Q01.모험가_길드.py)
 - Chapter 12. 구현 문제
     - [Q 07. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q07_럭키_스트레이트.py)
     - [Q 08. 문자열 재정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q08_문자열_재정렬.py)
