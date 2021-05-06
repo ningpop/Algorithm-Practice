@@ -259,6 +259,17 @@
 - [1230 - 터널 통과하기 2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1230.py)
 - [1231 - 계산기 1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic3/1231.py)
 
+### 기초4-1. 단순 반복문
+- [1071 - [기초-반복실행구조] 0 입력될 때까지 무한 출력하기1(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1071.cpp)
+- [1072 - [기초-반복실행구조] 정수 입력받아 계속 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1072.cpp)
+- [1073 - [기초-반복실행구조] 0 입력될 때까지 무한 출력하기2(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1073.cpp)
+- [1074 - [기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기1(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1074.cpp)
+- [1075 - [기초-반복실행구조] 정수 1개 입력받아 카운트다운 출력하기2(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1075.cpp)
+- [1076 - [기초-반복실행구조] 문자 1개 입력받아 알파벳 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1076.cpp)
+- [1077 - [기초-반복실행구조] 정수 1개 입력받아 그 수까지 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1077.cpp)
+- [1078 - [기초-종합] 짝수 합 구하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1078.cpp)
+- [1079 - [기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1079.cpp)
+
 </details>
 
 <details>
