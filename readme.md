@@ -351,6 +351,7 @@
 - [소수 찾기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/소수_찾기.cpp)
 - [수박수박수박수박수박수?](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/수박수박수박수박수박수.cpp)
 - [약수의 합](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/약수의_합.py)
+- [예산](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/예산.py)
 - [완주하지 못한 선수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/완주하지_못한_선수.py)
 - [짝수와 홀수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/짝수와_홀수.py)
 - [평균 구하기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/평균_구하기.py)
