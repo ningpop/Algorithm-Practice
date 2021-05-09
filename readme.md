@@ -309,6 +309,7 @@
     - [Q 03. 문자열 뒤집기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap11.그리디_문제/Q03.문자열_뒤집기.py)
     - [Q 04. 만들 수 없는 금액](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap11.그리디_문제/Q04.만들_수_없는_금액.py)
     - [Q 05. 볼링공 고르기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap11.그리디_문제/Q05.볼링공_고르기.py)
+    - [Q 06. 무지의 먹방 라이브](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap11.그리디_문제/Q06.무지의_먹방_라이브.py)
 - Chapter 12. 구현 문제
     - [Q 07. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q07_럭키_스트레이트.py)
     - [Q 08. 문자열 재정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q08_문자열_재정렬.py)
