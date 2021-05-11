@@ -269,6 +269,7 @@
 - [1077 - [기초-반복실행구조] 정수 1개 입력받아 그 수까지 출력하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1077.cpp)
 - [1078 - [기초-종합] 짝수 합 구하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1078.cpp)
 - [1079 - [기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1079.cpp)
+- [1080 - [기초-종합] 언제까지 더해야 할까?](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1080.cpp)
 
 </details>
 
