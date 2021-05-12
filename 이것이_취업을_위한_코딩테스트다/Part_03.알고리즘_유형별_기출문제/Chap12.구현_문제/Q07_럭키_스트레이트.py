@@ -20,3 +20,6 @@ if start_value == end_value:
     print('LUCKY')
 else:
     print('READY')
+
+# input: 123402
+# >>> 0.00011469999999999883sec
