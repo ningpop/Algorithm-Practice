@@ -11,3 +11,9 @@ for i in sorted(eng):
 
 result += str(sum(num))
 print(result)
+
+# input: 'K1KA5CB7'
+# >>> 0.00010910000000000086sec
+
+# input: 'AJKDLSI412K4JSJ9D'
+# >>> 0.00010139999999999802sec
