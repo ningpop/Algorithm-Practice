@@ -270,6 +270,11 @@
 - [1078 - [기초-종합] 짝수 합 구하기(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1078.cpp)
 - [1079 - [기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1079.cpp)
 - [1080 - [기초-종합] 언제까지 더해야 할까?](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1080.cpp)
+- [1083 - [기초-종합] 3 6 9 게임의 왕이 되자!(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1083.cpp)
+- [1087 - [기초-종합] 여기까지! 이제 그만~(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1087.cpp)
+- [1088 - [기초-종합] 3의 배수는 통과?(설명)](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1088.cpp)
+- [1089 - [기초-종합] 수 나열하기1](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1089.cpp)
+- [1090 - [기초-종합] 수 나열하기2](https://github.com/ningpop/Algorithm-Practice/blob/master/CodeUp/Basic4-1/1090.cpp)
 
 </details>
 
