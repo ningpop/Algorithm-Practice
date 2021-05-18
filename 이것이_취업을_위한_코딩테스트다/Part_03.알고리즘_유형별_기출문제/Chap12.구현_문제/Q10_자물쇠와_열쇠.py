@@ -1,4 +1,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/60059
+# 2021.05.15
+# 제한시간 40분
+# 시간초과 및 미해결
 
 def rotate_key(key: list) -> list:
     pass
