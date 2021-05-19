@@ -343,6 +343,7 @@
 - [2522. 별 찍기 - 12 (반복문)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/2500~2599/2522.cpp)
 - [9012. 괄호 (Stack)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/9000~9099/9012.cpp)
 - [10799. 쇠막대기 (stack)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/10700~10799/10799.cpp)
+- [10871. X보다 작은 수 (구현)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/10800~10899/10871.py)
 - [10992. 별 찍기 - 17 (반복문)](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/10900~10999/10992.cpp)
 - [18406. 럭키 스트레이트](https://github.com/ningpop/Algorithm-Practice/blob/master/BOJ/18400~18499/18406.py)
 </details>
