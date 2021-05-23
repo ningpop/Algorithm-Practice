@@ -327,6 +327,7 @@
     - [Q 14. 외벽 점검](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap12.구현_문제/Q14_외벽_점검.py)
 - Chapter 13. DFS/BFS 문제
     - [Q 15. 특정 거리의 도시 찾기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap13.DFS,BFS_문제/Q15_특정_거리의_도시_찾기.py)
+    - [Q 16. 연구소](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap13.DFS,BFS_문제/Q16_연구소.py)
 </details>
 
 <details>
