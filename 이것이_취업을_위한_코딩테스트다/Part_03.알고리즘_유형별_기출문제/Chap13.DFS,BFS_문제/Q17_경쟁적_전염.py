@@ -1,3 +1,8 @@
+# 2021.05.23
+# 풀이시간 60분 / 제한시간 50분
+# 정답 / 제한시간 초과
+# https://www.acmicpc.net/problem/18405
+
 from collections import deque
 
 N, K = map(int, input().split())
