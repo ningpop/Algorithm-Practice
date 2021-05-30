@@ -345,6 +345,9 @@
     - [Q 22. 블록 이동하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap13.DFS,BFS_문제/Q22_블록_이동하기.py)
 - Chapter 14. 정렬 문제
     - [Q 23. 국영수](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q23_국영수.py)
+    - [Q 24. 안테나](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q24_안테나.py)
+    - [Q 25. 실패율](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q25_실패율.py)
+    - [Q 26. 카드 정렬하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q26_카드_정렬하기.py)
 </details>
 
 <details>
