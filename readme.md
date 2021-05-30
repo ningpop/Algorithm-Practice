@@ -307,6 +307,12 @@
     - [예제 5-2-4. BFS](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-2-4.예제_BFS.py)
     - [실전 5-3. 음료수 얼려 먹기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-3.실전_음료수_얼려_먹기.py)
     - [실전 5-4. 미로 탈출](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap05.DFS,BFS/5-4.실전_미로_탈출.py)
+- Chapter 06. 정렬
+    - [예제 6-1-1. 선택 정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-1-1.예제_선택_정렬.py)
+    - [예제 6-1-2. 삽입 정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-1-2.예제_삽입_정렬.py)
+    - [예제 6-1-3. 퀵 정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-1-3.예제_퀵_정렬.py)
+    - [예제 6-1-4. 퀵 정렬 파이썬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-1-4.예제_퀵_정렬_파이썬.py)
+    - [예제 6-1-5. 계수 정렬](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-1-5.예제_계수_정렬.py)
 
 ### Part 03. 알고리즘 유형별 기출문제
 - Chapter 11. 그리디 문제
