@@ -316,6 +316,9 @@
     - [실전 6-2. 위에서 아래로](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-2.실전_위에서_아래로.py)
     - [실전 6-3. 성적이 낮은 순서로 학생 출력하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-3.실전_성적이_낮은_순서로_학생_출력하기.py)
     - [실전 6-4. 두 배열의 원소 교체](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap06.정렬/6-4.실전_두_배열의_원소_교체.py)
+- Chapter 07. 이진 탐색
+    - [예제 7-1-1. 재귀 함수로 구현한 이진 탐색](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap07.이진_탐색/7-1-1.예제_재귀함수로_구현한_이진_탐색.py)
+    - [예제 7-1-2. 반복문으로 구현한 이진 탐색](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap07.이진_탐색/7-1-2.예제_반복문으로_구현한_이진_탐색.py)
 
 ### Part 03. 알고리즘 유형별 기출문제
 - Chapter 11. 그리디 문제
