@@ -391,6 +391,7 @@
 - [약수의 합](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/약수의_합.py)
 - [예산](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/예산.py)
 - [완주하지 못한 선수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/완주하지_못한_선수.py)
+- [주식가격](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/주식가격.py)
 - [짝수와 홀수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/짝수와_홀수.py)
 - [평균 구하기](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/평균_구하기.py)
 - [K번째수](https://github.com/ningpop/Algorithm-Practice/blob/master/Programmers/K번째수.py)
