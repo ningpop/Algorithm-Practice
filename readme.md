@@ -329,6 +329,7 @@
     - [실전 8-2. 1로 만들기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-2.실전_1로_만들기.py)
     - [실전 8-3. 개미 전사](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-3.실전_개미_전사.py)
     - [실전 8-4. 바닥 공사](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-4.실전_바닥_공사.py)
+    - [실전 8-5. 효율적인 화폐 구성](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-5.실전_효율적인_화폐_구성.py)
 
 ### Part 03. 알고리즘 유형별 기출문제
 - Chapter 11. 그리디 문제
