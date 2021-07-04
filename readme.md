@@ -330,7 +330,7 @@
     - [실전 8-3. 개미 전사](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-3.실전_개미_전사.py)
     - [실전 8-4. 바닥 공사](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-4.실전_바닥_공사.py)
     - [실전 8-5. 효율적인 화폐 구성](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap08.다이나믹_프로그래밍/8-5.실전_효율적인_화폐_구성.py)
-- Chapter 09. 최단 거리
+- Chapter 09. 최단 경로
     - [예제 9-1-1. 간단한 다익스트라](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap09.최단_경로/9-1-1.예제_간단한_다익스트라.py)
     - [예제 9-1-2. 개선된 다익스트라](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap09.최단_경로/9-1-2.예제_개선된_다익스트라.py)
     - [예제 9-1-3. 플로이드 워셜](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_02.주요_알고리즘_이론과_실전_문제/Chap09.최단_경로/9-1-3.예제_플로이드_워셜.py)
@@ -368,8 +368,11 @@
     - [Q 24. 안테나](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q24_안테나.py)
     - [Q 25. 실패율](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q25_실패율.py)
     - [Q 26. 카드 정렬하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q26_카드_정렬하기.py)
+- Chapter 15. 이진 탐색 문제
+- Chapter 16. 다이나믹 프로그래밍 문제
 - Chapter 17. 최단 경로 문제
     - [Q 37. 플로이드](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q37_플로이드.py)
+    - [Q 38. 정확한 순위](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q38_정확한_순위.py)
 </details>
 
 <details>
