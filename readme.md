@@ -374,6 +374,7 @@
     - [Q 37. 플로이드](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q37_플로이드.py)
     - [Q 38. 정확한 순위](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q38_정확한_순위.py)
     - [Q 39. 화성 탐사](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q39_화성_탐사.py)
+    - [Q 40. 숨바꼭질](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q40_숨바꼭질.py)
 </details>
 
 <details>
