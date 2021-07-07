@@ -370,6 +370,7 @@
     - [Q 26. 카드 정렬하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap14.정렬_문제/Q26_카드_정렬하기.py)
 - Chapter 15. 이진 탐색 문제
     - [Q 27. 정렬된 배열에서 특정 수의 개수 구하기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap15.이진_탐색_문제/Q27_정렬된_배열에서_특정_수의_개수_구하기.py)
+    - [Q 28. 고정점 찾기](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap15.이진_탐색_문제/Q28_고정점_찾기.py)
 - Chapter 16. 다이나믹 프로그래밍 문제
 - Chapter 17. 최단 경로 문제
     - [Q 37. 플로이드](https://github.com/ningpop/Algorithm-Practice/blob/master/이것이_취업을_위한_코딩테스트다/Part_03.알고리즘_유형별_기출문제/Chap17.최단_경로_문제/Q37_플로이드.py)
