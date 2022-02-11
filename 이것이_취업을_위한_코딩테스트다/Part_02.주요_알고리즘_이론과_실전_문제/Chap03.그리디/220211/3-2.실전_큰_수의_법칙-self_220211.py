@@ -1,6 +1,7 @@
 # 2022.02.11
 # 제한 시간 30분 / 풀이 시간 13분 37초
 # 채점 결과: 정답
+# 시간복잡도: O(N)
 
 N, M, K = map(int, input().split())
 num_list = list(map(int, input().split()))
